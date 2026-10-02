@@ -98,5 +98,7 @@ System.out.println("this is another line added now");
 	String s1="1stnewbranch commit from local repo";
 
 		String s2="1stnewbranch commit from remote repo";
+
+String s3="1stnewbranch new commit";
     }
 }
