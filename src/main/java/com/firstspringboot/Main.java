@@ -92,5 +92,7 @@ System.out.println("hi this is the overridden method of command line runner");
 System.out.println("this is the last line i am adding from git");
 System.out.println("this is another line added now");
         System.out.println("this time everything will look good yerrr-------------------");
+
+        String s="1stnewbranch commit";
     }
 }
